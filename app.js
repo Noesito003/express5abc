@@ -21,7 +21,7 @@ var empleadoRouter = require('./routes/empleados');
 var productoRouter = require('./routes/productos');
 var arduinosensorRouter = require("./routes/arduinosensor");
 
-
+//Agregando ejemplo para subir el proyecto
 var app = express();
 
 app.use(cors({
